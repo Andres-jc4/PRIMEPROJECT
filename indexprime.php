@@ -24,7 +24,7 @@
 			padding: 5px ;
 			border-radius: 5px;
 			box-shadow:5px 5px 10px #218380;
-			border: solid 5px black ;
+			border: solid 5px black ;mjjhhhh
 			transition:0.3s;
 
 
